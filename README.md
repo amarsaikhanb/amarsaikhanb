@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Amraa
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=3000&color=00B4F7&width=435&lines=%F0%9F%91%8B+Hi+there%2C+I%E2%80%99m+Amaraa)](https://git.io/typing-svg)
 
 I am a **Machine Learning Engineer** with over 5+ years of experience in delivering innovative AI solutions. My expertise includes **intelligent document processing**, **AutoML platforms**, and designing **scalable machine learning workflows**. I am passionate about advancing machine learning research and applying AI to solve real-world challenges.
 
