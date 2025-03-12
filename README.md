@@ -19,7 +19,7 @@ I am a **Machine Learning Engineer** with over 5+ years of experience in deliver
 
 ## 📫 Let’s Connect
 - **GitHub**: [amarsaikhanb](https://github.com/amarsaikhanb)  
-- **LinkedIn**: [Amarsaikhan Batjargal](https://linkedin.com/in/amarsaikhan-batjargal)  
+- **LinkedIn**: [Amarsaikhan](https://linkedin.com/in/amarsaikhan-batjargal)  
 - **Email**: batukaq@gmail.com  
 
 🤖 **Excited to collaborate on impactful AI projects and contribute to the future of machine learning!**
